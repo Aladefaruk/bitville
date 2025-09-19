@@ -1,4 +1,4 @@
-# Bitville - User Management Application
+# Customer Management Application
 
 A full-stack web application for managing users and their posts, built with TypeScript, React, and Node.js.
 
